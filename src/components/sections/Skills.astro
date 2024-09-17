@@ -5,11 +5,20 @@ import {skills} from '@cv'
 ---
 
 <Section title="Skills">
+    <div class="legend">
+        <div class="code__legend">
+            <span></span>Programacion
+        </div>
+        <div class="design__legend">
+            <span></span>Diseno
+        </div>
+        <span></span>
+    </div>
 <ul>
-    {skills.map(({name}) => {
+    {skills.map(({name,type}) => {
         return(
             <li>
-               <span>{name}</span>
+               <span class={type}>{name}</span>
             </li>
         );
     })}
@@ -23,12 +32,48 @@ import {skills} from '@cv'
         gap: 8px;
     }
 
-    li{
+    li span{
         background-color: #eee;
         color: black;
         padding: .2rem .6rem;
-        border-radius: 6px;
+        border-radius: 6px 0px 0px 6px;
         font-size: .8rem;
         font-weight: 500;
+    }
+
+    .design{
+        border-right: 2px solid rgb(243, 155, 214);
+    }
+    .code{
+        border-right: 2px solid rgb(250, 247, 102) ;
+    }
+
+    .legend{
+        display: flex;
+        gap: 12px;
+        margin-bottom: 8px;
+        font-size: 0.8rem;
+    }
+    .code__legend{
+        display: flex;
+        gap: 4px;
+        align-items: center;
+    }
+    .code__legend span{
+        background-color: rgb(250, 247, 102);
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+    }
+    .design__legend{
+        display: flex;
+        gap: 4px;
+        align-items: center;
+    }
+    .design__legend span{
+        background-color: rgb(243, 155, 214);
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
     }
 </style>

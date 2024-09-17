@@ -1,0 +1,61 @@
+---
+import Section from "../Section.astro";
+
+import {courses} from '@cv'
+---
+
+<Section title="Cursos">
+    <ul>
+        {courses.map(({name,issuer}) => {
+          
+            return(
+                <ul>
+                    <article>
+                        <header>
+                            <div>
+                                <h3>{name}</h3>
+                            </div>
+                            <div class="issuer" >
+                                {issuer}
+                            </div>
+                        </header>  
+                    </article>
+                </ul>
+            
+        );
+        })}
+    </ul>
+</Section>
+
+<style>
+     ul {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  article h3 {
+    font-weight: 500;
+    color: #111;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 4px;
+  }
+
+  .issuer {
+    color: #555;
+    font-size: 0.85rem;
+    min-width: 102px;
+    text-align: right;
+  }
+
+  @media (width <= 700px) {
+    time {
+      text-align: right;
+    }
+  }
+</style>

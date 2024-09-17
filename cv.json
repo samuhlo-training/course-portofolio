@@ -1,194 +1,227 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Samuel Lopez Lopez",
+    "label": "FrontEnd Developer y Propietario de Seica Vintage",
     "image": "/me.jpeg",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "samu13lop@gmail.com",
+    "phone": "+34687390547",
+    "url": "https://seicavintage.com",
+    "summary": "Apasionado del frontend con un amor innato por la informática y el diseño gráfico. Encontré en el mundo del frontend la fusión perfecta de mis dos pasiones. Mi objetivo es involucrar la estética con la funcionalidad para ofrecer soluciones digitales que sean atractivas y fáciles de usar.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "address": "Rampa de Claudio Lopez",
+      "postalCode": "27002",
+      "city": "Lugo",
       "countryCode": "ES",
       "region": "España"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "samu13lop",
+        "url": "https://linkedin.com/in/samu13lop"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "SamuelDev",
+        "url": "https://github.com/samU13"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Seica Vintage",
+      "position": "Co-fundador y Desarrollador Web",
+      "url": "https://seicavintage.com",
+      "startDate": "2020-01-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": ["Started the company"]
+      "summary": "Rediseñé la marca, gestiono la parte de diseño, el sitio web y la administración de facturas.",
+      "highlights": [
+        "Fundación de la tienda",
+        "Mantenimiento web",
+        "Optimización del flujo de compras"
+      ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": ["Started the company"]
+      "name": "Freelance",
+      "position": "Asesor de Hardware",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "summary": "Brindo asesoramiento experto en la selección de componentes para PCs, montaje, modding y reparaciones.",
+      "highlights": [
+        "Selección de periféricos",
+        "Montaje y optimización de PCs"
+      ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": ["Started the company"]
-    }
-  ],
-  "volunteer": [
+      "name": "Concept Music Room",
+      "position": "Co-propietario",
+      "startDate": "2018-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Dirigí la gestión de la barra, almacén y personal, y me encargué del diseño estético y la promoción de eventos.",
+      "highlights": [
+        "Dirección de personal",
+        "Diseño y promoción de eventos",
+        "Gestion de barra"
+      ]
+    },
     {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "name": "Academia Recatelo",
+      "position": "Profesor Particular",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Daba clases de informática y asignaturas básicas de ESO y primaria, tanto en la academia como a domicilio.",
+      "highlights": ["Enseñanza personalizada", "Educación en informática"]
     }
   ],
   "education": [
     {
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
-      "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "institution": "IES Muralla Romana",
+      "url": "",
+      "area": "Diseño de Aplicaciones Web",
+      "studyType": "Formación Profesional",
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01",
+      "score": "",
+      "courses": ["Fundamentos de Desarrollo Web", "JavaScript Avanzado"]
+    },
+    {
+      "institution": "Colexio Fingoi",
+      "url": "",
+      "area": "Bachillerato y Selectividad",
+      "studyType": "Educación Secundaria",
+      "startDate": "2006",
+      "endDate": "2008",
+      "score": ""
     }
   ],
-  "awards": [
+  "courses": [
     {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
+      "name": "The Complete JavaScript Course 2023: From Zero to Expert!",
+      "issuer": "Udemy"
+    },
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }
-  ],
-  "publications": [
+      "name": "The Ultimate React Course 2023: React, Redux",
+      "issuer": "Udemy"
+    },
     {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
+      "name": "Master en CSS: Responsive, SASS, Bootstrap",
+      "issuer": "Udemy"
+    },
+    {
+      "name": "Node.js, Express, MongoDB & More: The Complete Bootcamp",
+      "issuer": "Udemy"
+    },
+    {
+      "name": "Complete Modern PHP Developer Course in 2023",
+      "issuer": "Udemy"
+    },
+    {
+      "name": "Diferentes cursos de Figma y Adobe XD",
+      "issuer": "Domestika"
     }
   ],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Avanzado",
+      "type": "code",
       "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+      "level": "Avanzado",
+      "type": "code",
+      "keywords": [
+        "Frontend",
+        "Diseño Responsive",
+        "Sass",
+        "Tailwind",
+        "Bootstrap"
+      ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Tailwind",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
+      "type": "code",
+      "keywords": ["Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "React",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      "type": "code",
+      "keywords": ["Frontend", "SPA", "UI Components"]
+    },
+    {
+      "name": "PHP",
+      "level": "Intermedio",
+      "type": "code",
+      "keywords": ["Backend", "WordPress"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermedio",
+      "type": "code",
+      "keywords": ["Backend", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermedio",
+      "type": "code",
+      "keywords": ["Bases de Datos", "SQL"]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermedio",
+      "type": "code",
+      "keywords": ["Bases de Datos", "NoSQL"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermedio",
+      "type": "code",
+      "keywords": ["Control de Versiones", "Colaboración"]
+    },
+    {
+      "name": "Figma",
+      "level": "Avanzado",
+      "type": "design",
+      "keywords": ["Prototipado", "Diseño de UI"]
+    },
+    {
+      "name": "Adobe XD",
+      "level": "Avanzado",
+      "type": "design",
+      "keywords": ["Prototipado", "Diseño de UI"]
+    },
+    {
+      "name": "Illustrator",
+      "level": "Avanzado",
+      "type": "design",
+      "keywords": ["Diseño Gráfico", "Ilustración"]
+    },
+    {
+      "name": "Photoshop",
+      "level": "Avanzado",
+      "type": "design",
+      "keywords": ["Diseño Gráfico", "Edición de Imágenes"]
+    },
+    {
+      "name": "Clip Studio",
+      "level": "Intermedio",
+      "type": "design",
+      "keywords": ["Ilustración", "Diseño"]
+    },
+    {
+      "name": "Premiere",
+      "level": "Intermedio",
+      "type": "design",
+      "keywords": ["Edición de Video"]
+    },
+    {
+      "name": "After Effects",
+      "level": "Intermedio",
+      "type": "design",
+      "keywords": ["Edición de Video", "Efectos Visuales"]
     }
   ],
   "languages": [
@@ -201,65 +234,27 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }
-  ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Seica Vintage",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": ["Elige tu propia aventura", "En desarrollo"],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Tienda online de ropa vintage y consciente con enfoque en productos locales y sostenibles.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Creacion en Wordpress",
+        "Uso de woocommerce",
+        "Mantenimiento de la tienda"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://seicavintage.com"
     },
     {
-      "name": "Codember",
+      "name": "Fame Negra",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": ["+2000 usuarios activos", "Retos para cualquier lenguaje"],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": ["100% gratuito", "+500 soluciones de la comunidad"],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
-      "url": "https://miduconf.com"
+      "description": "Aplicación web para gestionar recetas de cocina, con opciones de búsqueda avanzada, uso de IA para nutricion, lista de la compra ....",
+      "highlights": [
+        "Uso de Node.js y MongoDB para el backend",
+        "Uso de shadcn/ui para el frontend"
+      ],
+      "url": ""
     }
   ]
 }

@@ -1,14 +1,17 @@
 <div align="center">
 
 <h2>
-    <em>Caurriculum</em> minimalista maquetado para web y para imprimir.
+    <em>Curriculum</em> minimalista maquetado para web y para imprimir.
 </h2>
 <p>
 Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
 </p>
-
 <p>
 Creado siguiendo tutorial de <a href="https://midu.dev">Midudev</a>
+</p>
+
+<p>
+
 Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
 
 </p>
@@ -54,7 +57,7 @@ corepack enable
 corepack prepare pnpm@latest --activate
 
 # Inicializa el proyecto
-pnpm create astro@latest -- --template midudev/minimalist-portfolio-json
+pnpm create astro@latest -- --template samU13/course-portofolio
 ```
 
 ### 2. Añade tu contenido:
@@ -68,7 +71,7 @@ Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
 pnpm dev
 ```
 
-1. Abre [**http://localhost:4321**](http://localhost:4321/) en tu navegador para ver el resultado 🚀
+1. Abre [**http://localhost:4321**](http://localhost:4321/) en tu navegador para ver el resultado
 
 ## Comandos
 

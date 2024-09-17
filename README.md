@@ -33,7 +33,7 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 <div align="center">
 
-![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
+[![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
 
 </div>
 

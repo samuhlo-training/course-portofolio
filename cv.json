@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Samuel Lopez Lopez",
-    "label": "FrontEnd Developer y Propietario de Seica Vintage",
+    "label": "FrontEnd Developer y Diseñador Gráfico",
     "image": "/me.jpeg",
     "email": "samu13lop@gmail.com",
     "phone": "+34687390547",
@@ -87,7 +87,7 @@
     {
       "institution": "Colexio Fingoi",
       "url": "",
-      "area": "Bachillerato y Selectividad",
+      "area": "Bachillerato de Artes y Selectividad",
       "studyType": "Educación Secundaria",
       "startDate": "2006",
       "endDate": "2008",
@@ -242,7 +242,8 @@
       "highlights": [
         "Creacion en Wordpress",
         "Uso de woocommerce",
-        "Mantenimiento de la tienda"
+        "Mantenimiento de la tienda",
+        "Diseño de productos"
       ],
       "url": "https://seicavintage.com"
     },

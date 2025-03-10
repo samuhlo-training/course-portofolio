@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2>
-    <em>Curriculum</em> minimalista maquetado para web y para imprimir.
+    <em>Curriculum</em> minimalista maquetado para web y listo para imprimir.
 </h2>
 <p>
 Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>

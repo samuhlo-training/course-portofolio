@@ -16,6 +16,8 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 </p>
 
+<strong><a href="https://curriculum-astro-curse.vercel.app/">LINK</a></strong>
+
 </div>
 
 <div align="center">
@@ -35,9 +37,9 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 [![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
 
-</div>
-
 <img src="portada.webp"></img>
+
+</div>
 
 ## Stack
 
@@ -47,7 +49,7 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 ## Empezar
 
-### 1. Usa este [repo](https://github.com/samU13/course-portofolio) como _template_ de un proyecto de Astro
+### 1. Usa este [repo](https://github.com/samuhlo-training/course-portofolio) como _template_ de un proyecto de Astro
 
 - Usa [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador.
 

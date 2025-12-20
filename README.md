@@ -7,10 +7,9 @@
 Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
 </p>
 <p>
-Creado siguiendo tutorial de <a href="https://midu.dev">Midudev</a>
+Creado siguiendo el <a href="(https://www.youtube.com/watch?v=Zwh92LTB-Bk">Video Tutorial</a> de <a href="https://midu.dev">Midudev</a>
 </p>
 
-<p>
 
 Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
 

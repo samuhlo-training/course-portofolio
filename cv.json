@@ -1,227 +1,228 @@
 {
   "basics": {
-    "name": "Samuel Lopez Lopez",
-    "label": "FrontEnd Developer y Diseñador Gráfico",
+    "name": "Carlos Martínez García",
+    "label": "Desarrollador FullStack y Arquitecto de Software",
     "image": "/me.jpeg",
-    "email": "samu13lop@gmail.com",
-    "phone": "+34687390547",
-    "url": "https://seicavintage.com",
-    "summary": "Apasionado del frontend con un amor innato por la informática y el diseño gráfico. Encontré en el mundo del frontend la fusión perfecta de mis dos pasiones. Mi objetivo es involucrar la estética con la funcionalidad para ofrecer soluciones digitales que sean atractivas y fáciles de usar.",
+    "email": "carlos.martinez@example.com",
+    "phone": "+34612345678",
+    "url": "https://carlosmartinez.dev",
+    "summary": "Desarrollador apasionado con más de 8 años de experiencia en el desarrollo de aplicaciones web escalables. Me especializo en crear soluciones innovadoras que combinan rendimiento excepcional con una experiencia de usuario impecable.",
     "location": {
-      "address": "Rampa de Claudio Lopez",
-      "postalCode": "27002",
-      "city": "Lugo",
+      "address": "Avenida de la Tecnología 42",
+      "postalCode": "28001",
+      "city": "Madrid",
       "countryCode": "ES",
       "region": "España"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "samu13lop",
-        "url": "https://linkedin.com/in/samu13lop"
+        "username": "carlosmartinez",
+        "url": "https://linkedin.com/in/carlosmartinez"
       },
       {
         "network": "GitHub",
-        "username": "SamuelDev",
-        "url": "https://github.com/samU13"
+        "username": "CarlosDev",
+        "url": "https://github.com/carlosdev"
       }
     ]
   },
   "work": [
     {
-      "name": "Seica Vintage",
-      "position": "Co-fundador y Desarrollador Web",
-      "url": "https://seicavintage.com",
-      "startDate": "2020-01-01",
+      "name": "TechCorp Solutions",
+      "position": "Senior FullStack Developer",
+      "url": "https://techcorpsolutions.com",
+      "startDate": "2021-03-01",
       "endDate": null,
-      "summary": "Rediseñé la marca, gestiono la parte de diseño, el sitio web y la administración de facturas.",
+      "summary": "Lidero el desarrollo de aplicaciones empresariales utilizando tecnologías modernas. Implemento arquitecturas escalables y mejores prácticas de desarrollo.",
       "highlights": [
-        "Fundación de la tienda",
-        "Mantenimiento web",
-        "Optimización del flujo de compras"
+        "Arquitectura de microservicios",
+        "Optimización de rendimiento en un 40%",
+        "Mentoría de equipo de 5 desarrolladores"
+      ]
+    },
+    {
+      "name": "Digital Innovations Inc.",
+      "position": "Frontend Developer",
+      "startDate": "2018-06-01",
+      "endDate": "2021-02-01",
+      "summary": "Desarrollé interfaces de usuario modernas y responsivas para aplicaciones web de gran escala utilizando React y Vue.js.",
+      "highlights": [
+        "Implementación de Design System",
+        "Reducción del tiempo de carga en un 50%"
+      ]
+    },
+    {
+      "name": "StartUp Velocity",
+      "position": "Desarrollador Junior",
+      "startDate": "2016-01-01",
+      "endDate": "2018-05-01",
+      "summary": "Participé en el desarrollo de múltiples proyectos web, desde la conceptualización hasta el despliegue en producción.",
+      "highlights": [
+        "Desarrollo de APIs RESTful",
+        "Integración con servicios de terceros",
+        "Automatización de pruebas"
       ]
     },
     {
       "name": "Freelance",
-      "position": "Asesor de Hardware",
-      "startDate": "2015-01-01",
-      "endDate": null,
-      "summary": "Brindo asesoramiento experto en la selección de componentes para PCs, montaje, modding y reparaciones.",
+      "position": "Desarrollador Web",
+      "startDate": "2014-01-01",
+      "endDate": "2015-12-01",
+      "summary": "Proporcioné servicios de desarrollo web a pequeñas y medianas empresas, creando sitios web personalizados y aplicaciones.",
       "highlights": [
-        "Selección de periféricos",
-        "Montaje y optimización de PCs"
+        "Más de 20 proyectos completados",
+        "Desarrollo con WordPress y Laravel"
       ]
-    },
-    {
-      "name": "Concept Music Room",
-      "position": "Co-propietario",
-      "startDate": "2018-01-01",
-      "endDate": "2020-01-01",
-      "summary": "Dirigí la gestión de la barra, almacén y personal, y me encargué del diseño estético y la promoción de eventos.",
-      "highlights": [
-        "Dirección de personal",
-        "Diseño y promoción de eventos",
-        "Gestion de barra"
-      ]
-    },
-    {
-      "name": "Academia Recatelo",
-      "position": "Profesor Particular",
-      "startDate": "2010-01-01",
-      "endDate": "2012-01-01",
-      "summary": "Daba clases de informática y asignaturas básicas de ESO y primaria, tanto en la academia como a domicilio.",
-      "highlights": ["Enseñanza personalizada", "Educación en informática"]
     }
   ],
   "education": [
     {
-      "institution": "IES Muralla Romana",
+      "institution": "Universidad Complutense de Madrid",
       "url": "",
-      "area": "CS Diseño de Aplicaciones Web",
-      "studyType": "Formación Profesional",
-      "startDate": "2017-01-01",
-      "endDate": "2020-01-01",
-      "score": "",
-      "courses": ["Fundamentos de Desarrollo Web", "JavaScript Avanzado"]
+      "area": "Ingeniería Informática",
+      "studyType": "Grado Universitario",
+      "startDate": "2011-09-01",
+      "endDate": "2015-06-01",
+      "score": "8.5",
+      "courses": [
+        "Estructuras de Datos",
+        "Algoritmos Avanzados",
+        "Desarrollo de Software"
+      ]
     },
     {
-      "institution": "Colexio Fingoi",
+      "institution": "IES Tecnológico de Barcelona",
       "url": "",
-      "area": "Bachillerato de Artes y Selectividad",
-      "studyType": "Educación Secundaria",
-      "startDate": "2006",
-      "endDate": "2008",
-      "score": ""
+      "area": "Desarrollo de Aplicaciones Multiplataforma",
+      "studyType": "Formación Profesional Superior",
+      "startDate": "2009",
+      "endDate": "2011",
+      "score": "9.0"
     }
   ],
   "courses": [
     {
-      "name": "The Complete JavaScript Course 2023: From Zero to Expert!",
+      "name": "AWS Certified Solutions Architect - Professional",
+      "issuer": "Amazon Web Services"
+    },
+    {
+      "name": "Kubernetes: Mastering Container Orchestration",
       "issuer": "Udemy"
     },
     {
-      "name": "The Ultimate React Course 2023: React, Redux",
+      "name": "Advanced TypeScript Programming",
+      "issuer": "Frontend Masters"
+    },
+    {
+      "name": "Docker & Kubernetes: The Complete Guide",
       "issuer": "Udemy"
     },
     {
-      "name": "Master en CSS: Responsive, SASS, Bootstrap",
+      "name": "Microservices with Node.js and React",
       "issuer": "Udemy"
     },
     {
-      "name": "Node.js, Express, MongoDB & More: The Complete Bootcamp",
-      "issuer": "Udemy"
-    },
-    {
-      "name": "Complete Modern PHP Developer Course in 2023",
-      "issuer": "Udemy"
-    },
-    {
-      "name": "Diferentes cursos de Figma y Adobe XD",
-      "issuer": "Domestika"
+      "name": "System Design & Architecture",
+      "issuer": "Coursera"
     }
   ],
   "skills": [
     {
-      "name": "HTML",
-      "level": "Avanzado",
-      "type": "code",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-    {
-      "name": "CSS",
-      "level": "Avanzado",
-      "type": "code",
-      "keywords": [
-        "Frontend",
-        "Diseño Responsive",
-        "Sass",
-        "Tailwind",
-        "Bootstrap"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Avanzado",
+      "name": "TypeScript",
+      "level": "Experto",
       "type": "code",
       "keywords": ["Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Experto",
       "type": "code",
-      "keywords": ["Frontend", "SPA", "UI Components"]
-    },
-    {
-      "name": "PHP",
-      "level": "Intermedio",
-      "type": "code",
-      "keywords": ["Backend", "WordPress"]
+      "keywords": ["Frontend", "SPA", "UI Components", "Next.js"]
     },
     {
       "name": "Node.js",
-      "level": "Intermedio",
+      "level": "Avanzado",
       "type": "code",
-      "keywords": ["Backend", "Servidor"]
+      "keywords": ["Backend", "Servidor", "Express", "NestJS"]
     },
     {
-      "name": "MySQL",
+      "name": "Python",
+      "level": "Avanzado",
+      "type": "code",
+      "keywords": ["Backend", "Data Science", "Django", "FastAPI"]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "type": "code",
+      "keywords": ["DevOps", "Contenedores", "Orquestación"]
+    },
+    {
+      "name": "Kubernetes",
       "level": "Intermedio",
       "type": "code",
-      "keywords": ["Bases de Datos", "SQL"]
+      "keywords": ["DevOps", "Orquestación", "Escalabilidad"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "type": "code",
+      "keywords": ["Bases de Datos", "SQL", "Optimización"]
     },
     {
       "name": "MongoDB",
-      "level": "Intermedio",
+      "level": "Avanzado",
       "type": "code",
       "keywords": ["Bases de Datos", "NoSQL"]
     },
     {
+      "name": "GraphQL",
+      "level": "Avanzado",
+      "type": "code",
+      "keywords": ["API", "Query Language"]
+    },
+    {
+      "name": "AWS",
+      "level": "Avanzado",
+      "type": "code",
+      "keywords": ["Cloud", "Infraestructura", "Serverless"]
+    },
+    {
       "name": "Git",
+      "level": "Avanzado",
+      "type": "code",
+      "keywords": ["Control de Versiones", "CI/CD"]
+    },
+    {
+      "name": "Jest",
+      "level": "Avanzado",
+      "type": "code",
+      "keywords": ["Testing", "Unit Tests"]
+    },
+    {
+      "name": "Cypress",
       "level": "Intermedio",
       "type": "code",
-      "keywords": ["Control de Versiones", "Colaboración"]
+      "keywords": ["Testing", "E2E Tests"]
     },
     {
-      "name": "Figma",
-      "level": "Avanzado",
-      "type": "design",
-      "keywords": ["Prototipado", "Diseño de UI"]
-    },
-    {
-      "name": "Adobe XD",
-      "level": "Avanzado",
-      "type": "design",
-      "keywords": ["Prototipado", "Diseño de UI"]
-    },
-    {
-      "name": "Illustrator",
-      "level": "Avanzado",
-      "type": "design",
-      "keywords": ["Diseño Gráfico", "Ilustración"]
-    },
-    {
-      "name": "Photoshop",
-      "level": "Avanzado",
-      "type": "design",
-      "keywords": ["Diseño Gráfico", "Edición de Imágenes"]
-    },
-    {
-      "name": "Clip Studio",
+      "name": "Terraform",
       "level": "Intermedio",
-      "type": "design",
-      "keywords": ["Ilustración", "Diseño"]
+      "type": "code",
+      "keywords": ["IaC", "DevOps", "Automatización"]
     },
     {
-      "name": "Premiere",
+      "name": "Redis",
       "level": "Intermedio",
-      "type": "design",
-      "keywords": ["Edición de Video"]
+      "type": "code",
+      "keywords": ["Cache", "Base de Datos", "Performance"]
     },
     {
-      "name": "After Effects",
+      "name": "RabbitMQ",
       "level": "Intermedio",
-      "type": "design",
-      "keywords": ["Edición de Video", "Efectos Visuales"]
+      "type": "code",
+      "keywords": ["Message Queue", "Microservicios"]
     }
   ],
   "languages": [
@@ -231,31 +232,49 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "German",
+      "fluency": "Basic"
     }
   ],
   "projects": [
     {
-      "name": "Seica Vintage",
+      "name": "CloudSync Platform",
       "isActive": true,
-      "description": "Tienda online de ropa vintage y consciente con enfoque en productos locales y sostenibles.",
+      "description": "Plataforma de sincronización en tiempo real para equipos distribuidos, con capacidades de colaboración y gestión de documentos.",
       "highlights": [
-        "Creacion en Wordpress",
-        "Uso de woocommerce",
-        "Mantenimiento de la tienda",
-        "Diseño de productos"
+        "Arquitectura de microservicios con Docker y Kubernetes",
+        "WebSockets para comunicación en tiempo real",
+        "Implementación de Redis para caché distribuido",
+        "Más de 10,000 usuarios activos"
       ],
-      "url": "https://seicavintage.com"
+      "url": "https://cloudsync-platform.example.com"
     },
     {
-      "name": "Fame Negra",
+      "name": "E-Commerce Analytics Dashboard",
       "isActive": true,
-      "description": "Aplicación web para gestionar recetas de cocina, con opciones de búsqueda avanzada, uso de IA para nutricion, lista de la compra ....",
+      "description": "Dashboard analítico en tiempo real para comercio electrónico con visualizaciones interactivas y predicciones basadas en ML.",
       "highlights": [
-        "Uso de Node.js y MongoDB para el backend",
-        "Uso de shadcn/ui para el frontend"
+        "React + TypeScript para el frontend",
+        "Python + FastAPI para procesamiento de datos",
+        "Integración con TensorFlow para análisis predictivo",
+        "PostgreSQL con optimización de consultas complejas"
       ],
-      "url": ""
+      "url": "https://ecommerce-analytics.example.com"
+    },
+    {
+      "name": "TaskMaster API",
+      "isActive": false,
+      "description": "API RESTful para gestión de proyectos y tareas con autenticación avanzada y sistema de notificaciones.",
+      "highlights": [
+        "Node.js con NestJS framework",
+        "GraphQL para consultas flexibles",
+        "JWT + OAuth2 para autenticación",
+        "Documentación automática con Swagger"
+      ],
+      "url": "https://github.com/carlosdev/taskmaster-api"
     }
   ]
 }

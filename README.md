@@ -1,84 +1,88 @@
 <div align="center">
+  <br />
+  <br />
+  
+  # <code>COURSE_PORTOFOLIO</code>
+  
+  **MINIMAL CV / RESUME WEB TEMPLATE**
+  
+  <br />
 
-<h2>
-    <em>Curriculum</em> minimalista maquetado para web y listo para imprimir.
-</h2>
-<p>
-Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
-</p>
-<p>
-Creado siguiendo tutorial de <a href="https://midu.dev">Midudev</a>
-</p>
+  <img src="https://img.shields.io/badge/ASTRO-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
-<p>
 
-Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
-
-</p>
-
-<strong><a href="https://curriculum-astro-curse.vercel.app/">LINK</a></strong>
-
+  <br />
+  <br />
 </div>
 
-<div align="center">
-    <a href="#empezar">
-        Empezar
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#comandos">
-        Comandos
-    </a>
-   
-</div>
+---
 
-<p></p>
+### 00 __ PREVIEW
 
-<div align="center">
+![Hero Preview](portada.webp)
 
-[![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
+> **ABSTRACT:** Curriculum minimalista maquetado para web y listo para imprimir. Implementación de JSON Resume schema con keyboard shortcuts y diseño print-optimized.
+>
+> <br />
+>
+> **ORIGIN:** Based on [Tutorial Midudev](https://midu.dev).
+> *Adapted with JSON Resume schema and keyboard navigation.*
+>
+> <br />
+>
+> **DEMO:** [curriculum-astro-curse.vercel.app](https://curriculum-astro-curse.vercel.app/)
 
-<img src="portada.webp"></img>
+---
 
-</div>
+### 01 __ ARCHITECTURE & DECISIONS
 
-## Stack
+| COMPONENT | TECH | NOTE |
+| :--- | :--- | :--- |
+| **Core** | `Astro 4.15` | Static site generation. |
+| **Language** | `TypeScript` | Type-safe development. |
+| **Schema** | `JSON Resume` | Standard CV format. |
+| **UX** | `HotKeyPad` | Keyboard shortcuts menu. |
 
-- [**Astro**](https://astro.build/) - El framework web de la nueva época.
-- [**Typescript**](https://www.typescriptlang.org/) - JavaScript con sintaxis de tipado.
-- [**HotKeyPad**](https://github.com/jesubohr/hotkeypad) - Menu desplegable con atajos de teclado.
+<br>
 
-## Empezar
+### 02 __ INSTALLATION
 
-### 1. Usa este [repo](https://github.com/samuhlo-training/course-portofolio) como _template_ de un proyecto de Astro
-
-- Usa [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador.
+*Run local environment:*
 
 ```bash
-# Activa pnpm en MacOS, WSL & Linux:
-corepack enable
-corepack prepare pnpm@latest --activate
+# 1. Clone or use as template
+pnpm create astro@latest -- --template samuhlo-training/course-portofolio
 
-# Inicializa el proyecto
-pnpm create astro@latest -- --template samU13/course-portofolio
-```
+# 2. Install dependencies (pnpm enforced)
+pnpm install
 
-### 2. Añade tu contenido:
-
-Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
-
-### 3. Lanza el servidor de desarrollo:
-
-```bash
-# Disfruta del resultado
+# 3. Ignite
 pnpm dev
 ```
 
-1. Abre [**http://localhost:4321**](http://localhost:4321/) en tu navegador para ver el resultado
+### 03 __ USAGE
 
-## Comandos
+Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible siguiendo el esquema de [jsonresume.org](https://jsonresume.org/schema/).
 
-| Comando         | Acción                                                                       |
-| :-------------- | :--------------------------------------------------------------------------- |
-| `dev` o `start` | Lanza un servidor de desarrollo local en `localhost:4321`.                   |
-| `build`         | Comprueba posibles errores y hace un empaquetado de producción en `./dist/`. |
-| `preview`       | Vista previa en local `localhost:4321`                                       |
+#### Available Commands
+
+| Comando | Acción |
+| :--- | :--- |
+| `pnpm dev` | Lanza servidor de desarrollo en `localhost:4321` |
+| `pnpm build` | Comprueba errores y genera build en `./dist/` |
+| `pnpm preview` | Preview del build en `localhost:4321` |
+
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+
+
+<code>DESIGNED & CODED BY <a href='https://github.com/samuhlo'>samuhlo</a></code>
+
+
+<small>Lugo, Galicia</small>
+
+</div>

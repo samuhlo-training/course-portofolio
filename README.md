@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/ASTRO-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
-
   <br />
   <br />
 </div>
